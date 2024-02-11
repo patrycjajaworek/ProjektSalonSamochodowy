@@ -21,6 +21,7 @@ Aby zrealizować stronę, konieczne było wykonanie różnych elementów składa
     Tworzenie stron w języku HTML: Rozwinięcie aplikacji o interfejs użytkownika, umożliwiający obsługę różnych funkcji.
 
     Konfiguracja Spring Security: Stworzenie dwóch perspektyw - użytkownika oraz administratora, zabezpieczając dostęp do różnych funkcji.
+    (Na ten moment w projekcie użytkownicy nie są dodawani do bazy danych a główne nacisk kładziony był na wcześniej stworzoną w systemie Oracle bazę danych aut)
 
     Dołączenie bazy danych do projektu: Integracja wcześniej zaprojektowanej bazy danych z aplikacją.
 
