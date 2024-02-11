@@ -41,7 +41,7 @@ Aby zrealizować stronę, konieczne było wykonanie różnych elementów składa
       <li> Umożliwia przeglądanie ofert salonu, stronę główną jak i zakładkę kontaktu bez zalogowania
       <li> Dla zalogowanych użytkowników umożliwia przęgladanie konkretnych dostępnych aut oraz ich rezerwacje
       <li> Dodanie obsługi typowych błędówy typu 404 itp.
-      <li> Administrator po zalogowaniu ma dostęp do bazy danych aut i ma możliwość ich usuwania, dodawania i edytowania
+      <li> Administrator po zalogowaniu ma dostęp do bazy danych aut i ma możliwość ich usuwania oraz dodawania 
   </ul>
 
 </p>
