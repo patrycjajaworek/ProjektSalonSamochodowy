@@ -46,6 +46,14 @@ Aby zrealizować stronę, konieczne było wykonanie różnych elementów składa
 
 </p>
 
+<h2>Wygląd strony</h2>
+    <img src="glowna.jpg" alt="Strona glowna">
+     <img src="oferta.jpg" alt="Oferta">
+      <img src="logowanie.jpg" alt="Logowanie">
+         <img src="kontakt.jpg" alt="Kontakt">
+          <img src="wiecej.jpg" alt="wiecej">
+             <img src="error.jpg" alt="error">
+              <img src="adminmodyfikacje.jpg" alt="Modyfikacje">
 <h2>Kontekst Biznesowy</h2>
 
 Strona mogłaby by być skierowana dla przedsiębiorstwa z branży samochodowej, a konkretnie dla salonu samochodowego.
