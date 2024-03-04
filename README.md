@@ -3,6 +3,7 @@
 <h2>Zakres i Cel Projektu</h2>
 
 Projekt skupia się na rozwinięciu wcześniej zaprojektowanej bazy danych poprzez stworzenie aplikacji współpracującej z nią. 
+Projekt robiony był w zespole projektowym składającym się z dwóch osób.
 
 Narzędzia i technologie używane w projekcie to:
 
